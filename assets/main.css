@@ -1,3 +1,9 @@
 video {
   height: 50vh;
 }
+
+.video-control {
+  user-select: none;
+  cursor: pointer;
+  font-size: 24px;
+}
