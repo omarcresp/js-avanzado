@@ -1,0 +1,14 @@
+{
+  "name": "js-avanzado",
+  "version": "1.0.0",
+  "description": "proyecto de js avanzado",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": ["JackCres"],
+  "author": "JackCres Code <jackcres.code@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
